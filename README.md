@@ -9,4 +9,6 @@ Due to a lack of interest and resources, I have discontinued PANDA on my website
 
 All of the source files should be uploaded here so knock yourselves out. :)
 
+Note: The names.xml file will need to be hosted on the same domain as name_gen.swf. You will also need to update this URL within the Flash source to make the generator work.
+
 -Faeldray
